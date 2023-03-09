@@ -1,3 +1,4 @@
+//Program to compute the factorial of a number
 class Factorial
 {
     public static void main(String args[])
